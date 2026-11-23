@@ -13,7 +13,7 @@
 ---
 ## 1. Repository Structure
 
-BIC21203-Lab4A-JavaScript/
+BIC21203-Lab5A-PHP/
 │
 ├── Q1/
 │   ├── lab5a_q1.php
