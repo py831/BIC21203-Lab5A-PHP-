@@ -12,19 +12,17 @@
 
 ---
 ## 1. Repository Structure
-
+```text
 BIC21203-Lab5A-PHP/
 │
 ├── Q1/
 │   ├── lab5a_q1.php
-│
 ├── Q2/
 │   ├── lab5a_q2.php
-│
 ├── Q3/
 │   ├── lab5a_q3.php
-│
 └── README.md
+```
 
 ## 2. Prerequisites & Setup
 1. Install **XAMPP** (includes Apache and PHP) and **Visual Studio Code**.
